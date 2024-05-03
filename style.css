@@ -42,6 +42,9 @@ ul {
     .d-inline-flex {
         justify-content: center;
     }
+    .col {
+        text-align: center;
+    }
   } 
   @media (max-width: 576px){
     .container {
@@ -57,6 +60,9 @@ ul {
     }
     li {
         list-style: none;
+    }
+    .col {
+        text-align: center;
     }
   } 
 /*PENDIENTE
