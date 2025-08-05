@@ -1,0 +1,24 @@
+body{
+    background-color: #FFDCCC;
+}
+h1{
+    color: #FDB7EA;
+}
+.btn-primary, .btn-primary:hover, .btn-primary.btn-primary:active {
+    color: white;
+    border-color: #212529;
+    background-color: #212529;
+}
+
+.contact{
+    color: #212529;
+}
+.btn-outline-secondary{
+    color: #212529;
+    border-color: #212529;
+}
+.btn-outline-secondary:hover {
+    color: white;
+    border-color: #212529;
+    background-color: #212529;
+}
