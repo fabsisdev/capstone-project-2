@@ -23,7 +23,8 @@ h1{
     background-color: #212529;
 
 }
-mags {
+.mags {
     height: 100px;
     border-radius: 50%;
 }
+
