@@ -21,4 +21,9 @@ h1{
     color: white;
     border-color: #212529;
     background-color: #212529;
+
+}
+mags {
+    height: 100px;
+    border-radius: 50%;
 }
